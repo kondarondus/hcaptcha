@@ -1,0 +1,1 @@
+A Firefox plugin to help servers against MITM attacks against CAPTCHAs
